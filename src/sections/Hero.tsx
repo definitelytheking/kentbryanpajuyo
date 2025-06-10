@@ -114,7 +114,7 @@ export const HeroSection = () => {
         </div>
         <div className="max-w-lg mx-auto">
           <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide">
-            Hi! I'm Kent Bryan Pajuyo, Frontend Web Developer based in Philippines
+            I&apos;m Kent Bryan Pajuyo, Frontend Web Developer based in Philippines
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
             I am a Frontend Developer with 1 year of experience building
