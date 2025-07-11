@@ -117,7 +117,7 @@ export const HeroSection = () => {
             I&apos;m Kent Bryan Pajuyo, Frontend Web Developer based in Philippines
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
-            I am a Frontend Developer with 2 year of experience building
+            I am a Frontend Developer with 2 years of experience building
             responsive, user-friendly web applications using React.js,
             JavaScript, HTML, CSS, Next.js, and Tailwind CSS.
           </p>
